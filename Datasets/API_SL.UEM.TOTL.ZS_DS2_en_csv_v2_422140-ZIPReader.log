@@ -1,0 +1,15 @@
+[20-Nov-19 14:08:23] ZIP Reader Version 14.00.0010 Build 1029
+[20-Nov-19 14:08:24] Loading C:\Users\Vaibhav\Downloads\API_SL.UEM.TOTL.ZS_DS2_en_csv_v2_422140.zip
+	0 errors/warnings
+[20-Nov-19 14:08:24] Finished.
+[20-Nov-19 14:08:24] Extracting C:\Users\Vaibhav\Downloads\API_SL.UEM.TOTL.ZS_DS2_en_csv_v2_422140.zip
+	Inflating C:\Users\Vaibhav\Downloads\API_SL.UEM.TOTL.ZS_DS2_en_csv_v2_422140\API_SL.UEM.TOTL.ZS_DS2_en_csv_v2_422140.csv
+		CRC32 verified
+	Inflating C:\Users\Vaibhav\Downloads\API_SL.UEM.TOTL.ZS_DS2_en_csv_v2_422140\Metadata_Country_API_SL.UEM.TOTL.ZS_DS2_en_csv_v2_422140.csv
+		CRC32 verified
+	Inflating C:\Users\Vaibhav\Downloads\API_SL.UEM.TOTL.ZS_DS2_en_csv_v2_422140\Metadata_Indicator_API_SL.UEM.TOTL.ZS_DS2_en_csv_v2_422140.csv
+		CRC32 verified
+	Extracted 3 file(s)/folder(s)
+	Skipped 0 file(s)/folder(s)
+	0 errors/warnings
+[20-Nov-19 14:08:24] Finished.
