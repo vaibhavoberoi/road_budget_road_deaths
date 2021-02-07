@@ -116,6 +116,7 @@ Some points worth noting in the visualisation:
 1. Owing to the Great Recession of 2008 [9], the Percentage change in Car Registrations have big Red Circles for 2008 and 2009, due to lesser sales of cars in these years.
 2. France has experienced major downfall in the number of road accidents. While 20 years back it had its place in the Top 25 Percentile Countries with road deaths, it managed to make its way to lowest 25 Percentile in 2013. Also, French Government has spent more amount on roads the Australia and Canada, which can easily be observed from the visualisation.
 However, we should always note that correlation does not always mean causation[10]. The decrease of number of deaths might also be affected due to other factors- over the years quality of the cars have increased and people now stress upon better quality cars. Since this is an unquantifiable measure, it could not be taken into account. Secondly, over the years things like road signs, better and reliable traffic lights have become more common unlike 20 years back. Also, attaining a driving licence has become more difficult than ever, leading to a higher percentage of skilled drivers on the road. The number of road accidents could also be affected by these factors.
+
 References:
 [1] Wikipedia, “List of countries with the highest number of roads.” .
 [2] “OECD (2019), Infrastructure investment (indicator). doi: 10.1787/b06ce3ad-en (Accessed on 16 November 2019).”
@@ -124,7 +125,7 @@ References:
 [4] “OECD (2019), Passenger car registrations (indicator). doi: 10.1787/c58fcf22-en (Accessed on 24 November 2019).”
 [5] The World Bank, “Unemployment, total (% of total labor force) (modeled ILO estimate).”
 [6] R. DeFilippi, “MinMax Scaling,” Apr. 2018.
-[7] “Bokeh Docs.” .
+[7] “Bokeh Docs.” 
 [8] International Transport Forum, “Road Safety vs. Economic Growth.”, pp. 18-23, 2015 .
 [9] “Great Recession.”
 [10] A. Kelleher, “Correlation Doesn’t Imply Causation,” Jun. 2016.
