@@ -6,15 +6,15 @@ Road accidents are one of the major causes of unexpected deaths. Although some c
 Hence there is a need to study about what impact, if any, the huge amount invested by Governments has on the accidents that lead to deaths.
 We select 3 countries-Canada, France and Australia, because they are among the top 10 countries that have the highest number of highways in the world [1].
 We find out the quartile in which each Death Count of these countries falls compared to that of 53 countries each year. We also include variations in ‘Unemployment’ and ‘Percentage change of the number of Car Registrations’ in our study. The study is observed during a 20-year span: 1994-2013.
-1. Dataset
+1. Dataset:
 There are in total, 4 datasets used as part of the visualization:
-1. Infrastructure Investment [2]
-This dataset gives an insight of the amount invested by a country in transport construction, like Road, Railways etc. The subset of data downloaded was for amount invested on Roads, for the years 1994-2013. The shape of the datasheet is: 927 rows, 8 columns.
-2. Road Accidents and Death Count [3]
-This dataset contains information on number of individuals who were involved in road accidents and died, either immediately or within a month of the accident, excluding
-Suicides. The values are measured per million inhabitants of the country, per year.
-The measure is inclusive accidents involving buses, coaches, trolleys and other road vehicles, used to transport goods or people. The downlaoded dataset has 1013 rows
-And 7 columns.
+  1. Infrastructure Investment [2]
+  This dataset gives an insight of the amount invested by a country in transport construction, like Road, Railways etc. The subset of data downloaded was for amount invested on   Roads, for the years 1994-2013. The shape of the datasheet is: 927 rows, 8 columns.
+  2. Road Accidents and Death Count [3]
+  This dataset contains information on number of individuals who were involved in road accidents and died, either immediately or within a month of the accident, excluding
+  Suicides. The values are measured per million inhabitants of the country, per year.
+  The measure is inclusive accidents involving buses, coaches, trolleys and other road vehicles, used to transport goods or people. The downlaoded dataset has 1013 rows
+  And 7 columns.
 3. Passenger Car Registrations [4]
 This dataset refers to the number of newly registered passenger cars/vehicles, either private or commercial. Data is represented as growth over previous period. It hosts 725 rows and 7 columns.
 4. Unemployment (% of total labour force) [5]
